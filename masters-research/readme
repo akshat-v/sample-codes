@@ -1,1 +1,3 @@
-
+Older code for my Master's thesis research
+The code implements a custom brain-inspired model for robotic self-localization
+Contains the model, utilities and training loop that I created
